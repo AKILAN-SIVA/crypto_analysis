@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Crypto_Analyzer/static/css/main.5c60626f.css",
+    "main.js": "/Crypto_Analyzer/static/js/main.ee34e400.js",
+    "static/js/787.aedfee7a.chunk.js": "/Crypto_Analyzer/static/js/787.aedfee7a.chunk.js",
+    "static/media/base64ToImage.jpg": "/Crypto_Analyzer/static/media/base64ToImage.df0be214c891cd58c245.jpg",
+    "static/media/imageToBase64.jpg": "/Crypto_Analyzer/static/media/imageToBase64.e32c6890d4b7177a00ec.jpg",
+    "static/media/base58.png": "/Crypto_Analyzer/static/media/base58.2ca463d63fea849150e3.png",
+    "static/media/bg.png": "/Crypto_Analyzer/static/media/bg.818da767f6eba2df1de6.png",
+    "static/media/wallet.png": "/Crypto_Analyzer/static/media/wallet.e91ed757909fc05981c0.png",
+    "static/media/copybtn.png": "/Crypto_Analyzer/static/media/copybtn.2ddb32653c58c392d1fa.png",
+    "index.html": "/Crypto_Analyzer/index.html",
+    "main.5c60626f.css.map": "/Crypto_Analyzer/static/css/main.5c60626f.css.map",
+    "main.ee34e400.js.map": "/Crypto_Analyzer/static/js/main.ee34e400.js.map",
+    "787.aedfee7a.chunk.js.map": "/Crypto_Analyzer/static/js/787.aedfee7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c60626f.css",
+    "static/js/main.ee34e400.js"
+  ]
+}
